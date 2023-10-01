@@ -73,7 +73,7 @@ indicate that if a show premieres in the winter or the spring, the show has bett
 regardless of the season, it is still more likely that a show doesn't get renewed for another season. This means that a producer working on a Netflix original series that's debuting in winter may have
 better odds of the series surviving than if it debuted in the fall, but the odds are still against them. This may indicate that audiences tend to prefer shows that air in the winter or the spring. However,
 this could also mean there's more competition for shows that end in the fall, making it more difficult for them to survive against competitors.
-![Picture7](https://github.com/stberr19/EndedNetflixOriginalShows/assets/144372443/5cdcb0d7-1cae-410f-a168-575cfa4dab54)
+![Picture7NoFilter](https://github.com/stberr19/EndedNetflixOriginalShows/assets/144372443/aae76a7b-282a-4a8b-8c4f-60256a9a13dc)
 This bar graph shows the natural seasons shows concluded. Similar to the premiere bar graph, fall is the most popular time for shows to have their finales, and this comes as no surprise because again, most
 shows do not get renewed for another season.
 ![Picture7](https://github.com/stberr19/EndedNetflixOriginalShows/assets/144372443/e6d8858e-602f-409a-aa78-cd363b157c02)
